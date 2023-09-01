@@ -19,6 +19,7 @@ Gracias al bootcamp de Henry, tengo solidos conocimientos en:
 - Express.js
 - Sequelize
 - PostgreSQL
+- MongoDB
 - GIT
 
 En el ámbito del desarrollo backend, tengo habilidades destacadas en el uso de lenguajes como Node.js y frameworks como Express.js. Estoy familiarizado con la creación de APIs robustas y escalables, y tengo experiencia en la integración de bases de datos como PostgreSQL. Mi enfoque es siempre desarrollar soluciones eficientes y seguras, utilizando las mejores prácticas y siguiendo los estándares de la industria.

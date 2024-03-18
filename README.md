@@ -8,8 +8,6 @@ Soy un Fullstack Web Developer altamente motivado y apasionado por mi trabajo. T
 
 ### Que tecnologias uso ?
 
-Gracias al bootcamp de Henry, tengo solidos conocimientos en: 
-
 - HTML5
 - CSS3
 - JavaScript
